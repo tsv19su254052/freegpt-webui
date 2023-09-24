@@ -1,3 +1,7 @@
+Краткая инструкция по использованию
+
+![Инструкция по использованию](https://github.com/tsv19su254052/freegpt-webui/assets/104857185/b1a61698-4be1-4f1b-8a2e-88a0904e12f6)
+
 # FreeGPT WebUI 
 ## GPT 3.5/4
 
